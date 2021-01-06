@@ -1,0 +1,16 @@
+C:\Users\Viktor\Documents\C#\INDSA_Sem_C\INDSA_Sem_C\bin\Debug\INDSA_Sem_C.exe
+C:\Users\Viktor\Documents\C#\INDSA_Sem_C\INDSA_Sem_C\bin\Debug\INDSA_Sem_C.pdb
+C:\Users\Viktor\Documents\C#\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\C#\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.Form1.resources
+C:\Users\Viktor\Documents\C#\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.Properties.Resources.resources
+C:\Users\Viktor\Documents\C#\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.csproj.GenerateResource.Cache
+C:\Users\Viktor\Documents\C#\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.exe
+C:\Users\Viktor\Documents\C#\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.pdb
+D:\Dev\INDSA_Sem_C\INDSA_Sem_C\bin\Debug\INDSA_Sem_C.exe
+D:\Dev\INDSA_Sem_C\INDSA_Sem_C\bin\Debug\INDSA_Sem_C.pdb
+D:\Dev\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.Form1.resources
+D:\Dev\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.Properties.Resources.resources
+D:\Dev\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.csproj.GenerateResource.cache
+D:\Dev\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.csproj.CoreCompileInputs.cache
+D:\Dev\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.exe
+D:\Dev\INDSA_Sem_C\INDSA_Sem_C\obj\Debug\INDSA_Sem_C.pdb
